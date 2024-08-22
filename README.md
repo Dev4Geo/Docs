@@ -1,6 +1,7 @@
 # Dev4Geo Docs
 
 Welcome to the Dev4Geo Docs repository! This site is built using Docusaurus, a modern static site generator, to provide comprehensive documentation and resources for the Dev4Geo community.
+[Visit our website](https://dev4geo-docs.vercel.app)
 
 ## Getting Started
 
