@@ -1,14 +1,13 @@
 ---
 sidebar_position: 1
 title: Request New App
-# description: Website to show our projects
 ---
 
-# How to Request a New Feature or Application to Our Team
+## How to Request a New Feature or Application to Our Team
 
 To request a new app or feature, or to check out other requests, follow these steps:
 
-## Open a New Issue
+### Open a New Issue
 
 1. **Go to the Issues Page**
    - Visit [https://github.com/Dev4Geo/Dev4Geo/issues](https://github.com/Dev4Geo/Dev4Geo/issues).
@@ -23,7 +22,7 @@ To request a new app or feature, or to check out other requests, follow these st
 4. **Submit the Issue**
    - Once you've completed the form, click "Submit new issue" to submit your request.
 
-## Check Existing Issues
+### Check Existing Issues
 
 1. **Go to the Issues Page**
    - Visit [https://github.com/Dev4Geo/Dev4Geo/issues](https://github.com/Dev4Geo/Dev4Geo/issues) to see all open issues.
