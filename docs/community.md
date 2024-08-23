@@ -10,7 +10,7 @@ Join the Dev4Geo community and connect with fellow geologists and developers who
 
 ### Connect with Us
 
-- **[Discord](https://discord.gg/tmnGnKsV)**
+- **[Discord](https://discord.com/invite/uVdJr2Xnex)**
   - Join our Discord server to chat with community members in real-time, share ideas, and get support from others.
 
 - **[Facebook](https://www.facebook.com/dev4geo)**

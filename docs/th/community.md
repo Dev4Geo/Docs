@@ -9,7 +9,7 @@ title: ชุมชนของเรา
 
 ### ติดต่อเรา
 
-- **[Discord](https://discord.gg/tmnGnKsV)**
+- **[Discord](https://discord.com/invite/uVdJr2Xnex)**
   - เข้าร่วม Discord ของเราเพื่อสนทนากับสมาชิกในชุมชนแบบเรียลไทม์ แชร์ความคิด และขอความช่วยเหลือจากผู้อื่น
 
 - **[Facebook](https://www.facebook.com/dev4geo)**

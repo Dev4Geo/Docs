@@ -133,10 +133,10 @@ const config: Config = {
         {
           title: "Community",
           items: [
-            // TODO: need permanent link for discord
             {
               label: "Discord",
-              href: "https://discord.gg/tmnGnKsV",
+              href: "https://discord.com/invite/uVdJr2Xnex",
+
             },
             {
               label: "Facebook",
