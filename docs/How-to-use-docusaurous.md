@@ -37,14 +37,14 @@
 - [open localhost:3000](http://localhost:3000/docs/community)
 - On browser, click `Community` on the sidebar | [url](http://localhost:3000/docs/community)
 - On VSCode, open `community.md`. You will see like
-```
+```markdown
 ---
 sidebar_position: 5
 title: Community
 # description: Website to show our projects
 ---
 
-## Dev4Geo Community
+## Dev4Geo Community 
 
 Join the Dev4Geo community and connect with fellow geologists and developers who share your passion for advancing geology with technology. Our community is active across several platforms, and we encourage you to participate in discussions, collaborate on projects, and stay up-to-date with the latest developments.
 
@@ -56,7 +56,7 @@ Join the Dev4Geo community and connect with fellow geologists and developers who
 ## Creating a new page
 - New file `docs/new-page.md`
 - Write the content on that file | you might copy these
-```
+```markdown
 Welcome to the **Markdown Syntax Guide**. This document will showcase various Markdown features.
 
 ## 1. Headings
@@ -107,12 +107,6 @@ Welcome to the **Markdown Syntax Guide**. This document will showcase various Ma
 ### Inline code
 Here is some `inline code`.
 
-### Code blocks
-```python
-def hello_world():
-    print("Hello, world!")
-
-```
 - On browser, Let check `new-page` on sidebar | [url](http://localhost:3000/docs/new-page)
 
 #### WARNING 
@@ -120,7 +114,7 @@ Be careful about Header1 `# Header1`
 
 - Try to add this to the top of `docs/new-page.md` file
 
-```
+```markdown
 # Header1
 
 Welcome to the **Markdown Syntax Guide**. This document will showcase various Markdown features.
@@ -132,7 +126,7 @@ Welcome to the **Markdown Syntax Guide**. This document will showcase various Ma
 ## Play Sidebar
 ### Position
 - Try to add this to the top of `docs/new-page.md` file
-```
+```markdown
 ---
 sidebar_position: 1
 ---
@@ -142,7 +136,7 @@ sidebar_position: 1
 - On browser, Header1 position is changed on the sidebar | [url](http://localhost:3000/docs/new-page)
 ### Title
 - Try to add this to the top of `docs/new-page.md` file
-```
+```markdown
 ---
 sidebar_position: 1
 title: อบรมการปฐมพยาบาล
@@ -156,21 +150,21 @@ title: อบรมการปฐมพยาบาล
 
 Please named all files in English not Thai
 
-```
+```markdown
 ✅ nurse.md
 ❌ พยาบาล.md
 ```
 
 ## Play Menu
 Let check `docs/showcases/` folder. There are 
-```
+```markdown
 showcases/
 	_category_.json
 	showcase-web.md
 ```
 
 On `_category_.json`, the content will be like
-```
+```json
 {
   "label": "Showcases",
   "position": 2,
@@ -183,7 +177,7 @@ On `_category_.json`, the content will be like
 - `position` is for sidebar positon
 
 On `showcase-web.md`, the content will be like
-```
+```markdown
 ---
 sidebar_position: 1
 # id: my-doc-id
@@ -198,7 +192,7 @@ Let go to [localhost:3000/docs/category/showcases](http://localhost:3000/docs/ca
 
 ### New Menu Item
 - Create a file `docs/showcases/hello.md`
-```
+```markdown
 ---
 sidebar_position: 2
 title: Hi 
