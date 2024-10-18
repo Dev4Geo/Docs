@@ -245,3 +245,10 @@ items: [
 ]
 ```
 Let try and enjoy content writing
+
+### Add an image
+1. Put your image to assets folder like `docs/assets/a.jpg`
+2. Add this to the markdown content
+```markdown
+![img](./assets/a.jpg)
+```
